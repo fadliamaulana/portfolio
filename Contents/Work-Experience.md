@@ -24,22 +24,30 @@
 
 ---
 
-## 📌 PT. Telkom Indonesia
+## 📌 PT. Inova Medika Solusindo
 **📍 Bandung | 🗓️ 4 November 2019 – 28 May 2025**  
 
-### System Analyst:  
+## System Analyst
+### 1. Research and Development Division
+Developed and researched hospital systems, including:
+- Telemedicine: Designed solutions for remote medical services. 
+- Facility Management: Developed systems for hospital facility maintenance. 
+- Infection Control and Prevention: Designed systems to support infection control measures. - e-RM (Electronic Medical Records): Contributed to the development and maintenance of electronic medical records systems. 
+- HRM (Human Resource Management): Responsible for the design, development, and management of the HRM module
 
-### 🔹 Key Responsibilities:  
-- ✅ [Responsibility 1]  
-- ✅ [Responsibility 2]  
-- ✅ [Responsibility 3]  
+### 2. Solution Development Division
+- Initiated and analyzed business requirements for stakeholders and processes. 
+- Created solution analysis with user stories, mockups, and database designs. 
+- Analyzed system changes to ensure optimal functionality. 
+- Coordinated with development teams for smooth system implementation. 
+- Conducted manual QA testing to ensure quality and functionality.
 
-### 🚀 Achievements:  
-- 🏆 [Achievement 1]  
-- 🏆 [Achievement 2]  
+### 🚀 AProjects involved include:  
+- 🏆 RSUD Kota Serang
+- 🏆 RS Balimed Buleleng
+- 🏆 RSKG Habibie
+- 🏆 Klinik OMDC
+- 🏆 RS Priscilla Medical Center
 
 ---
 
-## 💡 Skills & Tools:  
-🔹 [Skill 1] | 🔹 [Skill 2] | 🔹 [Skill 3] | 🔹 [Skill 4]  
-🛠️ [Tool 1] | 🛠️ [Tool 2] | 🛠️ [Tool 3] | 🛠️ [Tool 4]  
