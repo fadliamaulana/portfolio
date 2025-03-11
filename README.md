@@ -10,10 +10,9 @@ In Quality Assurance, I have hands-on experience in manual and API testing, incl
 - Database Mapping (SQL, Data Flow Diagrams)  
 
 ## Portfolio Contents
-🔹  ⁠[📜 Resume](https://shorturl.at/5bnjJ)  
-🔹  ⁠[🛠️ Work Experience](Quality-Assurance/)  
-🔹⁠  ⁠[📁 Projects](Projects/)  
-🔹  ⁠[🏆 Certifications](Certifications.md)
-
+🔹  ⁠[📜 Resume](https://shorturl.at/socct)  
+🔹  ⁠[🛠️ Work Experience](Contents/Work-Experience.md)  
+🔹⁠  ⁠[📁 Projects](Contents/Projects.md)  
+🔹  ⁠[🏆 Certifications](Contents/Certifications.md)
 
 📩 Contact me at [fadlimaulanaaa@gmail.com]  
