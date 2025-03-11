@@ -1,7 +1,6 @@
 # Portfolio System Analyst & Quality Assurance
 
-Hi, I'm Fadli Ahmad Maulana, a Software Documentation Engineer with 4+ years of experience, specializing in technical documentation and quality assurance. Skilled in creating and managing technical documents, designing API contracts, and mapping databases to support development. Experienced in manual QA testing, including test case creation, execution, and bug tracking.
-In Quality Assurance, I have hands-on experience in manual and API testing, including test case creation, execution, defect tracking, and reporting. I conduct API testing using Postman, validate system functionality, and collaborate with development teams to ensure software quality and seamless integration.
+Hi, I'm Fadli Ahmad Maulana, I have 4 years of experience as a Software Documentation Engineer at PT Telkom Indonesia, where I was involved in key projects such as Vaksinasi dan PeduliLindungi, Scalable Codebase, and OneData USU. Prior to that, I worked as a System Analyst for 1 year and 7 months in an IT consulting firm specializing in hospital management systems. My expertise lies in technical documentation, system analysis, quality assurance and ensuring high-quality software solutions through meticulous documentation and collaboration with cross-functional teams.
 
 ## Skills  
 - System Analysis (Requirement Gathering, ERD, UML, Technical Documentation)  
