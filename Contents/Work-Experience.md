@@ -42,7 +42,7 @@ Developed and researched hospital systems, including:
 - Coordinated with development teams for smooth system implementation. 
 - Conducted manual QA testing to ensure quality and functionality.
 
-### 🚀 AProjects involved include:  
+### 🚀 Projects involved include:  
 - 🏆 RSUD Kota Serang
 - 🏆 RS Balimed Buleleng
 - 🏆 RSKG Habibie
